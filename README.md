@@ -4,4 +4,5 @@
 - Front end technologies include popular JavaScript frameworks as well as vanilla JavaScript.
 - Backend technologies include RESTful APIs built on Node/ExpressJS, GraphQL + Relay, and various database technologies including MySQL, mariaDB, MongoDB, PostgreSQL.
 - Amazon Web Services cloud: EC2, ElasticBeanstalk, Lambda, DynamoDB.
+- Manual Code Review
 - 📫 Contact me at <stevelong@purplerockscissorscom>

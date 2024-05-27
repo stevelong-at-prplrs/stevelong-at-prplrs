@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevelong-at-prplrs
 - Open Source contributor
-- Full Stack Developer specializing in JavaScript, Node, and related technologies.
+- Full Stack Developer specializing in JavaScript, Java/Spring, Node, and related technologies.
 - Front end technologies include popular JavaScript frameworks as well as vanilla JavaScript.
 - Backend technologies include RESTful APIs built on Node/ExpressJS, GraphQL + Relay, and various database technologies including MySQL, mariaDB, MongoDB, PostgreSQL.
 - Amazon Web Services cloud: EC2, ElasticBeanstalk, Lambda, DynamoDB.
